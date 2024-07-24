@@ -58,5 +58,4 @@ createUser returns a response with the format
 
 {
   firstName: 'Guillaume',
-  lastName: 'Salva',
-}
+  lastName: 'Salva',}
